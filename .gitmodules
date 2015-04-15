@@ -1,0 +1,12 @@
+[submodule "bug_hunt"]
+	path = bug_hunt
+	url = https://github.com/coenwulf/bug_hunt.git
+[submodule "hi-bye-bug-hunt"]
+	path = hi-bye-bug-hunt
+	url = https://github.com/coenwulf/hi-bye-bug-hunt.git
+[submodule "bug-hunt"]
+	path = bug-hunt
+	url = https://github.com/avilyn/bug-hunt.git
+[submodule "mr_president"]
+	path = mr_president
+	url = https://github.com/masonjm/mr_president.git
