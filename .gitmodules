@@ -10,3 +10,6 @@
 [submodule "mr_president"]
 	path = mr_president
 	url = https://github.com/masonjm/mr_president.git
+[submodule "bug-hunt-2"]
+	path = bug-hunt-2
+	url = https://github.com/avilyn/bug-hunt-2.git
